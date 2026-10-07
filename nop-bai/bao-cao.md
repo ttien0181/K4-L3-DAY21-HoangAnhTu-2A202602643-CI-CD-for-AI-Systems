@@ -13,11 +13,11 @@ HƯỚNG DẪN - đọc rồi XÓA TOÀN BỘ các khối chú thích này sau k
 
 | | |
 |---|---|
-| Họ và tên | ___ |
-| MSSV | ___ |
+| Họ và tên | Hoàng Anh Tú |
+| MSSV | 2A202602643 |
 | Lớp / Khóa | K4 |
-| Repo GitHub | https://github.com/___/___ |
-| Ngày nộp | ___ |
+| Repo GitHub | github.com/ttien0181/K4-L3-DAY21-HoangAnhTu-2A202602643-CI-CD-for-AI-Systems |
+| Ngày nộp | 7/10 |
 
 ---
 
